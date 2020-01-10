@@ -7,4 +7,4 @@
 |-------|-------|--------------|-----------|
 | 1  | Vasanth R| 19csb52  |  vasanthravi21@gmail.com |
 |  2 | Prince P  |19csb15   |  princeraj142002@gmail.com |
-| 3  |Pooshan A Joy   |19csb11   |   |
+| 3  |Pooshan A Joy   |19csb11   | pooshanjoy@gmail.com  |
